@@ -48,6 +48,13 @@
       "appId": "386940",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ultimate_Chicken_Horse/Ultimate_Chicken_Horse_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Raft",
+      "title": "Raft",
+      "appId": "648800",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Raft/Raft_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
