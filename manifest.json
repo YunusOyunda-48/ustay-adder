@@ -1,0 +1,53 @@
+{
+  "games": [
+    {
+      "id": "Boat_Together",
+      "title": "Boat Together",
+      "appId": "3543890",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Boat_Together/Boat_Together_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Boat_Together/Boat_Together_online.zip"
+    },
+    {
+      "id": "Marvel_s_Spider-Man_2",
+      "title": "Marvel's Spider-Man 2",
+      "appId": "2651280",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Marvel_s_Spider-Man_2/Marvel_s_Spider-Man_2_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Marvel_s_Spider-Man_Miles_Morales",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "appId": "1817190",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Marvel_s_Spider-Man_Miles_Morales/Marvel_s_Spider-Man_Miles_Morales_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Marvel_s_Spider-Man_Remastered",
+      "title": "Marvel's Spider-Man Remastered",
+      "appId": "1817070",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Marvel_s_Spider-Man_Remastered/Marvel_s_Spider-Man_Remastered_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Megabonk",
+      "title": "Megabonk",
+      "appId": "3405340",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Megabonk/Megabonk_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "MIMESIS",
+      "title": "MIMESIS",
+      "appId": "2827200",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/MIMESIS/MIMESIS_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Ultimate_Chicken_Horse",
+      "title": "Ultimate Chicken Horse",
+      "appId": "386940",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda_48/ustay-adder/main/packages/Ultimate_Chicken_Horse/Ultimate_Chicken_Horse_mod.zip",
+      "onlineUrl": ""
+    }
+  ]
+}
