@@ -62,6 +62,13 @@
       "appId": "632360",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Risk_Of_Rain_2/Risk_Of_Rain_2_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Risk_Of_Rain_2/Risk_Of_Rain_2_online.zip"
+    },
+    {
+      "id": "Party_Panic",
+      "title": "Party Panic",
+      "appId": "506500",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_online.zip"
     }
   ]
 }
