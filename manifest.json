@@ -69,6 +69,20 @@
       "appId": "506500",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_online.zip"
+    },
+    {
+      "id": "A_Way_Out",
+      "title": "A Way Out",
+      "appId": "1222700",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/A_Way_Out/A_Way_Out_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Agree",
+      "title": "AGREE",
+      "appId": "3757210",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Agree/Agree_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
