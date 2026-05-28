@@ -97,6 +97,13 @@
       "appId": "2483190",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Forza_6/Forza_6_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Forza_6/Forza_6_online.zip"
+    },
+    {
+      "id": "Ride_5",
+      "title": "Ride 5",
+      "appId": "1650010",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ride_5/Ride_5_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
