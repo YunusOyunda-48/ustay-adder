@@ -111,6 +111,20 @@
       "appId": "2531310",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Tlou_2/Tlou_2_mod.zip",
       "onlineUrl": ""
+    },
+        {
+      "id": "Tlou_1",
+      "title": "The Last Of Us I",
+      "appId": "1888930",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Tlou_1/Tlou_1_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Uncharted",
+      "title": "UNCHARTED™: Hırsızlar Mirası",
+      "appId": "1659420",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Uncharted/Uncharted_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
