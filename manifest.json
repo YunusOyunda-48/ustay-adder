@@ -125,6 +125,27 @@
       "appId": "1659420",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Uncharted/Uncharted_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Bodycam",
+      "title": "Bodycam",
+      "appId": "2406770",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Bodycam/Bodycam_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "Ready_or_not",
+      "title": "Ready or Not",
+      "appId": "1144200",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ready_or_not/Ready_or_not_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ready_or_not/Ready_or_not_online.zip"
+    },
+    {
+      "id": "Breakpoint",
+      "title": "Tom Clancy's Ghost Recon® Breakpoint",
+      "appId": "2231380",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Breakpoint/Breakpoint_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
