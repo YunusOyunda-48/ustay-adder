@@ -153,6 +153,13 @@
       "appId": "4704690",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Meccha_Chameleon/Meccha_Chameleon_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Meccha_Chameleon/Meccha_Chameleon_online.zip"
+    },
+    {
+      "id": "rimworld",
+      "title": "RimWorld",
+      "appId": "294100",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Rimworld/rimworld_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
