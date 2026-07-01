@@ -160,6 +160,13 @@
       "appId": "294100",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Rimworld/rimworld_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Burglin_Gnomes",
+      "title": "Burglin' Gnomes",
+      "appId": "3844970",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_online.zip"
     }
   ]
 }
