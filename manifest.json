@@ -112,7 +112,7 @@
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Tlou_2/Tlou_2_mod.zip",
       "onlineUrl": ""
     },
-        {
+    {
       "id": "Tlou_1",
       "title": "The Last Of Us I",
       "appId": "1888930",
@@ -167,8 +167,13 @@
       "appId": "3844970",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_online.zip"
+    },
+    {
+      "id": "Red_Dead_Redemption_2",
+      "title": "Red Dead Redemption 2",
+      "appId": "1174180",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Red_Dead_Redemption_2/Red_Dead_Redemption_2_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
-
-

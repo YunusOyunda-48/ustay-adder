@@ -1,5 +1,9 @@
 import fs from 'fs/promises';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 async function run() {
   try {
@@ -37,7 +41,7 @@ async function run() {
     }
 
     // Read manifest
-    const manifestPath = path.join(process.cwd(), 'manifest.json');
+    const manifestPath = path.join(__dirname, 'manifest.json');
     let manifestData = { games: [] };
     try {
       const raw = await fs.readFile(manifestPath, 'utf8');
@@ -69,7 +73,7 @@ async function run() {
     }
 
     // Ensure package directory exists
-    const pkgDir = path.join(process.cwd(), 'packages', gameId);
+    const pkgDir = path.join(__dirname, 'packages', gameId);
     await fs.mkdir(pkgDir, { recursive: true });
 
     // Copy zip to packages/<id>/<id>_mod.zip
