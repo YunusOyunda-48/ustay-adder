@@ -202,6 +202,13 @@
       "appId": "1091500",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Cyberpunk_2077/Cyberpunk_2077_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Among_Us",
+      "title": "Among Us",
+      "appId": "945360",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Among_Us/Among_Us_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
