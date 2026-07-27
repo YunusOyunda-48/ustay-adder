@@ -209,6 +209,13 @@
       "appId": "945360",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Among_Us/Among_Us_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Phasmophobia",
+      "title": "Phasmophobia",
+      "appId": "739630",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Phasmophobia/Phasmophobia_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Phasmophobia/Phasmophobia_online.zip"
     }
   ]
 }
