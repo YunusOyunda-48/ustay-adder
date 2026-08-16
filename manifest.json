@@ -223,6 +223,13 @@
       "appId": "2141730",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Backrooms_Escape_Together/Backrooms_Escape_Together_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Backrooms_Escape_Together/Backrooms_Escape_Together_online.zip"
+    },
+    {
+      "id": "Palworld",
+      "title": "Palworld",
+      "appId": "1623730",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Palworld/Palworld_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
