@@ -230,6 +230,13 @@
       "appId": "1623730",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Palworld/Palworld_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Echoes_of_Aincrad",
+      "title": "Echoes of Aincrad",
+      "appId": "2244210",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Echoes_of_Aincrad/Echoes_of_Aincrad_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
