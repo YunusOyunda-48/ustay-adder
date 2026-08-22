@@ -237,6 +237,13 @@
       "appId": "2244210",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Echoes_of_Aincrad/Echoes_of_Aincrad_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "How_to_Fish",
+      "title": "How to Fish",
+      "appId": "4001890",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_online.zip"
     }
   ]
 }
