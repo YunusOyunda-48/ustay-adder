@@ -244,6 +244,13 @@
       "appId": "4001890",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_online.zip"
+    },
+    {
+      "id": "PEAK",
+      "title": "PEAK",
+      "appId": "3527290",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/PEAK/PEAK_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
