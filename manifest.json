@@ -251,6 +251,20 @@
       "appId": "3527290",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/PEAK/PEAK_mod.zip",
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/PEAK/PEAK_online.zip"
+    },
+    {
+      "id": "God_of_War",
+      "title": "God of War",
+      "appId": "1593500",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/God_of_War/God_of_War_mod.zip",
+      "onlineUrl": ""
+    },
+    {
+      "id": "God_of_War_Ragnark",
+      "title": "God of War Ragnarök",
+      "appId": "2322010",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/God_of_War_Ragnark/God_of_War_Ragnark_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
