@@ -271,6 +271,13 @@
       "title": "Mimic Party",
       "appId": "5053820",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Mimic_Party/Mimic_Party_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Mimic_Party/Mimic_Party_online.zip"
+    },
+    {
+      "id": "Moo_Who",
+      "title": "Moo Who?",
+      "appId": "4948000",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Moo_Who/Moo_Who_mod.zip",
       "onlineUrl": ""
     }
   ]
