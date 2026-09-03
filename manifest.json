@@ -265,6 +265,13 @@
       "appId": "2322010",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/God_of_War_Ragnark/God_of_War_Ragnark_mod.zip",
       "onlineUrl": ""
+    },
+    {
+      "id": "Mimic_Party",
+      "title": "Mimic Party",
+      "appId": "5053820",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Mimic_Party/Mimic_Party_mod.zip",
+      "onlineUrl": ""
     }
   ]
 }
