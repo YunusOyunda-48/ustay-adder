@@ -5,280 +5,322 @@
       "title": "Boat Together",
       "appId": "3543890",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Boat_Together/Boat_Together_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Boat_Together/Boat_Together_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Boat_Together/Boat_Together_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3543890/58ee57a7dfd6514fc548ecfb9511640f966e2069/header.jpg?t=1767643497"
     },
     {
       "id": "Marvel_s_Spider-Man_2",
       "title": "Marvel's Spider-Man 2",
       "appId": "2651280",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Marvel_s_Spider-Man_2/Marvel_s_Spider-Man_2_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811"
     },
     {
       "id": "Marvel_s_Spider-Man_Miles_Morales",
       "title": "Marvel's Spider-Man Miles Morales",
       "appId": "1817190",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Marvel_s_Spider-Man_Miles_Morales/Marvel_s_Spider-Man_Miles_Morales_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1787838710"
     },
     {
       "id": "Marvel_s_Spider-Man_Remastered",
       "title": "Marvel's Spider-Man Remastered",
       "appId": "1817070",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Marvel_s_Spider-Man_Remastered/Marvel_s_Spider-Man_Remastered_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689"
     },
     {
       "id": "Megabonk",
       "title": "Megabonk",
       "appId": "3405340",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Megabonk/Megabonk_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/d06cb39a82a703e42541085fc61b42d80904b3f8/header.jpg?t=1760445338"
     },
     {
       "id": "MIMESIS",
       "title": "MIMESIS",
       "appId": "2827200",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/MIMESIS/MIMESIS_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1787626772"
     },
     {
       "id": "Ultimate_Chicken_Horse",
       "title": "Ultimate Chicken Horse",
       "appId": "386940",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ultimate_Chicken_Horse/Ultimate_Chicken_Horse_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ultimate_Chicken_Horse/Ultimate_Chicken_Horse_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ultimate_Chicken_Horse/Ultimate_Chicken_Horse_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg?t=1765298731"
     },
     {
       "id": "Raft",
       "title": "Raft",
       "appId": "648800",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Raft/Raft_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Raft/Raft_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Raft/Raft_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011"
     },
     {
       "id": "Risk_Of_Rain_2",
       "title": "Risk Of Rain 2",
       "appId": "632360",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Risk_Of_Rain_2/Risk_Of_Rain_2_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Risk_Of_Rain_2/Risk_Of_Rain_2_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Risk_Of_Rain_2/Risk_Of_Rain_2_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1783621122"
     },
     {
       "id": "Party_Panic",
       "title": "Party Panic",
       "appId": "506500",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Party_Panic/Party_Panic_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506500/header.jpg?t=1573184475"
     },
     {
       "id": "A_Way_Out",
       "title": "A Way Out",
       "appId": "1222700",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/A_Way_Out/A_Way_Out_mod.zip",
-      "onlineUrl": "https://github.com/YunusOyunda-48/ustay-adder/releases/download/big-files/A_Way_Out_online.zip"
+      "onlineUrl": "https://github.com/YunusOyunda-48/ustay-adder/releases/download/big-files/A_Way_Out_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg?t=1777323433"
     },
     {
       "id": "Agree",
       "title": "AGREE",
       "appId": "3757210",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Agree/Agree_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757210/ae36ecedeb4d9f65ed7aa58f8f7dc2d47976d745/header.jpg?t=1777735933"
     },
     {
       "id": "Subnautica_2",
       "title": "Subnautica 2",
       "appId": "1962700",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Subnautica_2/Subnautica_2_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Subnautica_2/Subnautica_2_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Subnautica_2/Subnautica_2_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1785967256"
     },
     {
       "id": "Forza_6",
       "title": "Forza 6",
       "appId": "2483190",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Forza_6/Forza_6_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Forza_6/Forza_6_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Forza_6/Forza_6_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787843145"
     },
     {
       "id": "Ride_5",
       "title": "Ride 5",
       "appId": "1650010",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ride_5/Ride_5_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650010/header.jpg?t=1763029608"
     },
     {
       "id": "Tlou_2",
       "title": "The Last Of Us II Remastered",
       "appId": "2531310",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Tlou_2/Tlou_2_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180"
     },
     {
       "id": "Tlou_1",
       "title": "The Last Of Us I",
       "appId": "1888930",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Tlou_1/Tlou_1_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031"
     },
     {
       "id": "Uncharted",
       "title": "UNCHARTED™: Hırsızlar Mirası",
       "appId": "1659420",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Uncharted/Uncharted_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header_turkish.jpg?t=1779309472"
     },
     {
       "id": "Bodycam",
       "title": "Bodycam",
       "appId": "2406770",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Bodycam/Bodycam_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/0b6c215dac4d68c75daedc87a6ce1d40107a9b84/header_alt_assets_0_turkish.jpg?t=1788471492"
     },
     {
       "id": "Ready_or_not",
       "title": "Ready or Not",
       "appId": "1144200",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ready_or_not/Ready_or_not_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ready_or_not/Ready_or_not_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Ready_or_not/Ready_or_not_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931"
     },
     {
       "id": "Breakpoint",
       "title": "Tom Clancy's Ghost Recon® Breakpoint",
       "appId": "2231380",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Breakpoint/Breakpoint_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/3e05f31b9aa9fd29b9709f035e73761a908e9fbe/header.jpg?t=1786026109"
     },
     {
       "id": "Meccha_Chameleon",
       "title": "Meccha Chameleon",
       "appId": "4704690",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Meccha_Chameleon/Meccha_Chameleon_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Meccha_Chameleon/Meccha_Chameleon_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Meccha_Chameleon/Meccha_Chameleon_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785908480"
     },
     {
       "id": "rimworld",
       "title": "RimWorld",
       "appId": "294100",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Rimworld/rimworld_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789"
     },
     {
       "id": "Burglin_Gnomes",
       "title": "Burglin' Gnomes",
       "appId": "3844970",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Burglin_Gnomes/Burglin_Gnomes_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg?t=1787427131"
     },
     {
       "id": "Red_Dead_Redemption_2",
       "title": "Red Dead Redemption 2",
       "appId": "1174180",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Red_Dead_Redemption_2/Red_Dead_Redemption_2_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Red_Dead_Redemption_2/Red_Dead_Redemption_2_online.zip"
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "bypassUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Red_Dead_Redemption_2/Red_Dead_Redemption_2_bypass.zip",
+      "bypassNote": "Sonra 'Yerel Dosyalara Göz At' basıp Launcher.exe çalıştırmalısınız steamden oyna derseniz açmayabilir."
     },
     {
       "id": "Schedule_I",
       "title": "Schedule I",
       "appId": "3164500",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Schedule_I/Schedule_I_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Schedule_I/Schedule_I_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Schedule_I/Schedule_I_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977"
     },
     {
       "id": "Internet_Cafe_Simulator_2",
       "title": "Internet Cafe Simulator 2",
       "appId": "1563180",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Internet_Cafe_Simulator_2/Internet_Cafe_Simulator_2_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1563180/header.jpg?t=1786957693"
     },
     {
       "id": "Quarantine_Zone_The_Last_Check",
       "title": "Quarantine Zone: The Last Check",
       "appId": "3419520",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Quarantine_Zone_The_Last_Check/Quarantine_Zone_The_Last_Check_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419520/c8562f1c2f8f054e5f8efeb536a0ba2490905033/header.jpg?t=1787667139"
     },
     {
       "id": "Cyberpunk_2077",
       "title": "Cyberpunk 2077",
       "appId": "1091500",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Cyberpunk_2077/Cyberpunk_2077_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077"
     },
     {
       "id": "Among_Us",
       "title": "Among Us",
       "appId": "945360",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Among_Us/Among_Us_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1787088490"
     },
     {
       "id": "Phasmophobia",
       "title": "Phasmophobia",
       "appId": "739630",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Phasmophobia/Phasmophobia_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Phasmophobia/Phasmophobia_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Phasmophobia/Phasmophobia_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/3dab2169bcaac566718921c87f5982560123e8bf/header_alt_assets_12.jpg?t=1787675345"
     },
     {
       "id": "Backrooms_Escape_Together",
       "title": "Backrooms: Escape Together",
       "appId": "2141730",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Backrooms_Escape_Together/Backrooms_Escape_Together_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Backrooms_Escape_Together/Backrooms_Escape_Together_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Backrooms_Escape_Together/Backrooms_Escape_Together_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg?t=1780282746"
     },
     {
       "id": "Palworld",
       "title": "Palworld",
       "appId": "1623730",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Palworld/Palworld_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419"
     },
     {
       "id": "Echoes_of_Aincrad",
       "title": "Echoes of Aincrad",
       "appId": "2244210",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Echoes_of_Aincrad/Echoes_of_Aincrad_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/25fb6350451b21ca824562c8d1eebe89091347cc/header.jpg?t=1784167139"
     },
     {
       "id": "How_to_Fish",
       "title": "How to Fish",
       "appId": "4001890",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/How_to_Fish/How_to_Fish_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834"
     },
     {
       "id": "PEAK",
       "title": "PEAK",
       "appId": "3527290",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/PEAK/PEAK_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/PEAK/PEAK_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/PEAK/PEAK_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571"
     },
     {
       "id": "God_of_War",
       "title": "God of War",
       "appId": "1593500",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/God_of_War/God_of_War_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412"
     },
     {
       "id": "God_of_War_Ragnark",
       "title": "God of War Ragnarök",
       "appId": "2322010",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/God_of_War_Ragnark/God_of_War_Ragnark_mod.zip",
-      "onlineUrl": ""
+      "onlineUrl": "",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233"
     },
     {
       "id": "Mimic_Party",
       "title": "Mimic Party",
       "appId": "5053820",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Mimic_Party/Mimic_Party_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Mimic_Party/Mimic_Party_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Mimic_Party/Mimic_Party_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053820/cb42d784567e89c1c409e49856ece32c9cf8ab36/header.jpg?t=1787839317"
     },
     {
       "id": "Moo_Who",
       "title": "Moo Who",
       "appId": "4948000",
       "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Moo_Who/Moo_Who_mod.zip",
-      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Moo_Who/Moo_Who_online.zip"
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Moo_Who/Moo_Who_online.zip",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948000/362297ea18447bdf634052b56e7c1bc3d9ed2e72/header.jpg?t=1787331470"
     }
   ]
 }
