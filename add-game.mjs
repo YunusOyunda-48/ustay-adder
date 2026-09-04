@@ -27,7 +27,7 @@ async function run() {
 
     const appId = match[1];
     const typeModifier = match[2] ? match[2].toLowerCase() : "";
-    const isOnline = typeModifier === "_online";
+    const isOnline = typeModifier === "_online" || process.argv.includes("--online");
     const isBypass = typeModifier === "_bypass" || process.argv.includes("--bypass");
     const modeName = isBypass ? "Bypass" : isOnline ? "Online" : "Normal";
     
