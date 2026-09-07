@@ -401,6 +401,16 @@
       "onlineUrl": "",
       "bypassUrl": "",
       "bypassNote": ""
+    },
+    {
+      "id": "BLEACH_Rebirth_of_Souls",
+      "title": "BLEACH Rebirth of Souls",
+      "appId": "1689620",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/header.jpg?t=1765454766",
+      "modUrl": "",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/BLEACH_Rebirth_of_Souls/BLEACH_Rebirth_of_Souls_online.zip",
+      "bypassUrl": "",
+      "bypassNote": ""
     }
   ]
 }
