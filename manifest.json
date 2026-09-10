@@ -481,6 +481,16 @@
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Machine_Party/Machine_Party_online.zip",
       "bypassUrl": "",
       "bypassNote": ""
+    },
+    {
+      "id": "DELTARUNE",
+      "title": "DELTARUNE",
+      "appId": "1671210",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/DELTARUNE/DELTARUNE_mod.zip",
+      "onlineUrl": "",
+      "bypassUrl": "",
+      "bypassNote": ""
     }
   ]
 }
