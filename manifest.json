@@ -541,6 +541,26 @@
       "onlineUrl": "",
       "bypassUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Resident_Evil_Village/Resident_Evil_Village_bypass.zip",
       "bypassNote": ""
+    },
+    {
+      "id": "Grand_Theft_Auto_Vice_City_The_Definitive_Edition",
+      "title": "Grand Theft Auto: Vice City – The Definitive Edition",
+      "appId": "1546990",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/header.jpg?t=1781138647",
+      "modUrl": "",
+      "onlineUrl": "",
+      "bypassUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Grand_Theft_Auto_Vice_City_The_Definitive_Edition/Grand_Theft_Auto_Vice_City_The_Definitive_Edition_bypass.zip",
+      "bypassNote": ""
+    },
+    {
+      "id": "ASTRONEER",
+      "title": "ASTRONEER",
+      "appId": "361420",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/1c44099d86c824a6fd1098a4215097878d68664e/header.jpg?t=1770767049",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/ASTRONEER/ASTRONEER_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/ASTRONEER/ASTRONEER_online.zip",
+      "bypassUrl": "",
+      "bypassNote": ""
     }
   ]
 }
