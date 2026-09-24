@@ -561,6 +561,16 @@
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/ASTRONEER/ASTRONEER_online.zip",
       "bypassUrl": "",
       "bypassNote": ""
+    },
+    {
+      "id": "Grand_Theft_Auto_V_Legacy",
+      "title": "Grand Theft Auto V Legacy",
+      "appId": "271590",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Grand_Theft_Auto_V_Legacy/Grand_Theft_Auto_V_Legacy_mod.zip",
+      "onlineUrl": "",
+      "bypassUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Grand_Theft_Auto_V_Legacy/Grand_Theft_Auto_V_Legacy_bypass.zip",
+      "bypassNote": "Çalışması için kesinlikle \"Gta V Legacy\" indirmeniz gerekiyor (Enchanted olanda çalışmıyor). Oyunu steamden indirip burdan bypass dedikten sonra -> Yerel Dosyalara Göz At diyip \"PlayGTAV.exe\" çalıştırmalısınız. Eğer steamden başlatırsanız açılmaz!"
     }
   ]
 }
