@@ -122,6 +122,7 @@ async function run() {
         title: gameTitle,
         appId: appId,
         imageUrl: gameImageUrl,
+        isNsfw: false,
         modUrl: "",
         onlineUrl: "",
         bypassUrl: "",
@@ -129,6 +130,45 @@ async function run() {
       };
       manifestData.games.push(existingGame);
     }
+
+    // NSFW / +18 icerik sorgulama
+    let isNsfw = Boolean(existingGame.isNsfw);
+    const knownNsfwIds = [
+      "sex_secrets_used_tech",
+      "stranded_naked",
+      "much_bigger_than_my_boyfriend",
+      "pussy_island"
+    ];
+    const knownNsfwAppIds = ["3576350", "3155980", "4718490", "4235370"];
+    if (knownNsfwIds.includes(gameId.toLowerCase()) || knownNsfwAppIds.includes(appId)) {
+      isNsfw = true;
+    }
+
+    console.log(`\n======================================================`);
+    console.log(`🔞 YETISKIN / NSFW ICERIK AYARI`);
+    console.log(`Oyun: ${gameTitle}`);
+    if (isNsfw) {
+      console.log(`(Mevcut Kayit: NSFW olarak isaretli)`);
+    }
+    console.log(`Bu oyun NSFW / +18 mi?`);
+    console.log(`- Evet ise: 'Y' veya 'E' yazip ENTER'a basin.`);
+    console.log(`- Hayir ise: Direkt ENTER tusuna basip devam edin.`);
+    console.log(`======================================================\n`);
+
+    try {
+      const rlNsfw = readline.createInterface({ input, output });
+      const promptLabel = isNsfw ? "NSFW mi? [Y/n] (Varsayilan Evet): " : "NSFW mi? [y/N] (Varsayilan Hayir): ";
+      const nsfwAnswer = (await rlNsfw.question(promptLabel)).trim().toLowerCase();
+      rlNsfw.close();
+      if (nsfwAnswer === 'y' || nsfwAnswer === 'yes' || nsfwAnswer === 'e' || nsfwAnswer === 'evet') {
+        isNsfw = true;
+      } else if (nsfwAnswer === 'n' || nsfwAnswer === 'no' || nsfwAnswer === 'h' || nsfwAnswer === 'hayir') {
+        isNsfw = false;
+      }
+    } catch (_) {}
+
+    existingGame.isNsfw = isNsfw;
+    console.log(`[INFO] NSFW Durumu: ${isNsfw ? "EVET (Menude kapak blurlu gosterilecek)" : "HAYIR"}`);
 
     // Ensure package directory exists
     const pkgDir = path.join(__dirname, 'packages', gameId);
@@ -162,6 +202,7 @@ async function run() {
     console.log(`- Oyun: ${gameTitle}`);
     console.log(`- Mod Turu: ${modeName}`);
     console.log(`- Dosya: packages/${gameId}/${destName}`);
+    console.log(`- NSFW (+18): ${existingGame.isNsfw ? "EVET (Menude Blurlu)" : "HAYIR"}`);
     if (isBypass && existingGame.bypassNote) {
       console.log(`- Bypass Notu: ${existingGame.bypassNote}`);
     }
