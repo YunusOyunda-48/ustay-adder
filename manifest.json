@@ -691,6 +691,17 @@
       "onlineUrl": "",
       "bypassUrl": "",
       "bypassNote": ""
+    },
+    {
+      "id": "Lethal_Company",
+      "title": "Lethal Company",
+      "appId": "1966720",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "isNsfw": false,
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Lethal_Company/Lethal_Company_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Lethal_Company/Lethal_Company_online.zip",
+      "bypassUrl": "",
+      "bypassNote": ""
     }
   ]
 }
