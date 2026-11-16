@@ -702,6 +702,17 @@
       "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/Lethal_Company/Lethal_Company_online.zip",
       "bypassUrl": "",
       "bypassNote": ""
+    },
+    {
+      "id": "The_Planet_Crafter",
+      "title": "The Planet Crafter",
+      "appId": "1284190",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg?t=1788266415",
+      "isNsfw": false,
+      "modUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/The_Planet_Crafter/The_Planet_Crafter_mod.zip",
+      "onlineUrl": "https://raw.githubusercontent.com/YunusOyunda-48/ustay-adder/main/packages/The_Planet_Crafter/The_Planet_Crafter_online.zip",
+      "bypassUrl": "",
+      "bypassNote": ""
     }
   ]
 }
